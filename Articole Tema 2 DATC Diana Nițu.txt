@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Document-oriented_database
+https://www.mongodb.com/post/15781260117/mongodb-case-study-craigslist
+https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
